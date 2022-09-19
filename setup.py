@@ -7,7 +7,7 @@ REQUIREMENTS = [
 ]
 
 VERSION = 0.5
-REPO_URL = 'https://github.com/BoxingOctopus/toxin'
+REPO_URL = 'https://github.com/trhacknon/toxin'
 
 setup(
     name='toxin',
@@ -16,7 +16,7 @@ setup(
     version=VERSION,
     description='An LFI (Local File Inclusion) Exploitation Tool',
     author='Ryan Draga',
-    author_email='ryan.draga@boxingoctop.us',
+    author_email='jeremydiliotti@gmail.com',
     url=REPO_URL,
     download_url=F'{REPO_URL}/archive/{VERSION}.tar.gz',
     keywords=['LFI', 'Exploit'],
