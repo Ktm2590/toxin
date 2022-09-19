@@ -12,7 +12,7 @@ FIG_TEXT = FIG.renderText('Toxin')
 TITLE_TEXT = 'Toxin: Local File Inclusion Exploitation Tool'
 CONTEXT_SETTINGS = dict(help_option_names=['-h', '--help'])
 VERSION_TEXT = '{} \n %(prog)s v%(version)s \n \
-by BoxingOctop.us/Cephalopod Security'.format(FIG_TEXT)
+by Trhacknon Security'.format(FIG_TEXT)
 
 
 # Custom help text
