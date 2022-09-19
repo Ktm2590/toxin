@@ -18,7 +18,7 @@ setup(
     author='Ryan Draga',
     author_email='jeremydiliotti@gmail.com',
     url=REPO_URL,
-    download_url=F'{REPO_URL}/archive/{VERSION}.tar.gz',
+    download_url=F'{REPO_URL}/archive/refs/tags{VERSION}.tar.gz',
     keywords=['LFI', 'Exploit'],
     python_requires='>=3.0',
     install_requires=REQUIREMENTS,
